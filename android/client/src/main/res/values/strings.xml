@@ -9,7 +9,7 @@
     <string name="android_phone">Android phone</string>
     <string name="another_device">another device</string>
     <string name="answer">Answer</string>
-    <string name="app_name" translatable="false">Tether Client</string>
+    <string name="app_name" translatable="false">iFixTel</string>
     <string name="battery">Battery %1$d %%%2$s</string>
     <string name="block">Block</string>
     <string name="bt_tethering">Bluetooth tethering</string>
