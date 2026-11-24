@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 1.2.1 — 2026-11-24
+
 ### Branding
 
 - Fixed the Android Client app display name to iFixTel.
