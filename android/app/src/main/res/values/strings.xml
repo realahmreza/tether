@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tether</string>
+    <string name="app_name">iFixTel</string>
     <string name="dialer_label">Tether phone</string>
     <string name="channel_link">Link</string>
     <string name="channel_calls">Calls</string>

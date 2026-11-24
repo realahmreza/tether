@@ -123,6 +123,8 @@ jobs:
         run: swift build -c release
       - name: XcodeGen
         run: brew install xcodegen && cd ios && xcodegen generate --quiet
+      - name: Set iFixTel app display name
+        run: echo 'TETHER_DISPLAY_NAME = iFixTel' > ios/Config/Local.xcconfig
       - name: iPhone app (Release, unsigned)
         working-directory: ios
         run: >
