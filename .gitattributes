@@ -1,4 +1,4 @@
 # Gradle's Windows wrapper keeps its CRLF line endings.
 android/gradlew.bat -whitespace
 
-tools/release.sh text eol=lf
+tools/*.sh text eol=lf
