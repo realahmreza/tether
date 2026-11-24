@@ -11,8 +11,8 @@ settings:
     SWIFT_VERSION: "5.0"
     # Written by tools/release.sh from VERSION (MARKETING_VERSION without a pre-release suffix, as App Store rules
     # want; CURRENT_PROJECT_VERSION = the Android versionCode). The release workflow checks they agree.
-    MARKETING_VERSION: "1.1.0"
-    CURRENT_PROJECT_VERSION: "1010099"
+    MARKETING_VERSION: "1.2.0"
+    CURRENT_PROJECT_VERSION: "1020099"
     # Team, bundle id and display name come from Config/Tether.xcconfig + Config/Local.xcconfig (docs/BUILD.md).
     CODE_SIGN_STYLE: Automatic
 packages:

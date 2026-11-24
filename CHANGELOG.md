@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 1.2.0 — 2026-11-24
+
 ### Branding
 
 - Rebranded the Android and iOS apps as iFixTel, including app display names and application icons.
