@@ -2,3 +2,5 @@
 android/gradlew.bat -whitespace
 
 tools/*.sh text eol=lf
+
+android/gradlew text eol=lf
